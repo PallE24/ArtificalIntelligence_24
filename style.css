@@ -1,0 +1,30 @@
+#heading1{
+    /* Id selector */
+    color:rgb(13, 13, 16);
+    text-align:center;
+    background-color:bisque;
+    font-size: 50px;
+}
+#para1{
+    /* element selector */
+    text-align: justify;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 15px;
+    border: 5px solid black;
+}
+#heading2{
+    color: rgb(9, 8, 8);
+    margin-left: 10px;
+    padding-left: 10px;
+    text-decoration: underline;
+    text-decoration-style:solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+#para2{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 15px;
+}
